@@ -3,8 +3,6 @@ A food delivery application built using Swift for iOS. The application uses Push
 
 
 
-![](https://www.dropbox.com/s/fl0r5qjacnusb5l/Food-Delivery-App-with-Push-Notifications14.gif?raw=1)
-
 ## Requirements
 - A Mac with Xcode installed.
 - Knowledge of using Xcode.
@@ -22,4 +20,3 @@ A food delivery application built using Swift for iOS. The application uses Push
 * Run `node index.js` inside the `Backend` directory.
 * Run the Xcode application(s).
 
-> ⚠️ To test the Push notifications you will need to first use [Ngrok](http://ngrok.io) to tunnel your backend application, change the URL to the API in the `AppDelegate` of both projects, then run the applications on your iOS device. You also need a paid Apple Developer account.
